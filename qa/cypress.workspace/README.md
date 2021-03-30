@@ -1,5 +1,7 @@
 # Set UP
 
+[Here's](https://docs.google.com/presentation/d/1j9HI0-UJyygKpeBgqPLflkeez-voxGuOS9y2txWVbsc/edit?usp=sharing) a Short presentation on the testing strategy
+
 ## Installing Cypress
 
 [![npm version](https://badge.fury.io/js/cypress.svg)](https://badge.fury.io/js/cypress)
